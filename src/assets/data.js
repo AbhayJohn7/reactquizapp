@@ -1,0 +1,42 @@
+export const data =[
+    {
+        question : "What is the process of finding errors in the software code?",
+        option1: "Testing",
+        option2 : "Running",
+        option3 : "Compiling",
+        option4 : "Debugging",
+        ans : 4,
+    },
+    {
+        question : "Other than Binary Digits what else is the name for the 0 and 1 in the binary number system?",
+        option1: "Bits",
+        option2 : "Bytes",
+        option3 : "Kilobytes",
+        option4 : "Decimal Bytes",
+        ans : 1,
+    },
+    {
+        question : "_____ is the Language used by a browser typically to interpret display information from the World Wide Web.",
+        option1: "Machine code",
+        option2 : "HTML",
+        option3 : "C++",
+        option4 : "Assembly language",
+        ans : 2,
+    },
+    {
+        question : "Query language comes under___",
+        option1: "Third generation",
+        option2 : "Fourth generation",
+        option3 : "Fifth generation",
+        option4 : "None of the above",
+        ans : 2,
+    },
+    {
+        question : "Which of the following is the same as a variable with one major difference. It does not change while the value of a variable changes throughout a program.",
+        option1: "Fixed-variable",
+        option2 : "Conditional",
+        option3 : "Constant",
+        option4 : "None of the above",
+        ans : 3,
+    },
+]
